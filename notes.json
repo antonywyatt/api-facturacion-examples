@@ -47,5 +47,6 @@
           "totalImpuestos": 18,
           "mtoPrecioUnitario": 59
       }
-    ]
+    ],
+    "observaciones" : "Observaciones de la factura"
   }
